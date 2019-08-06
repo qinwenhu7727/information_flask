@@ -235,3 +235,4 @@ def user_info():
 
 # git 演示代码
 print("hello world")
+print("nihao")
