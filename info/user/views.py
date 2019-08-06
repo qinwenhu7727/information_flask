@@ -232,3 +232,6 @@ def user_info():
     }
 
     return render_template("news/user.html", data=data)
+
+# git 演示代码
+print("hello world")
