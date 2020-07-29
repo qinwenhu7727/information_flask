@@ -26,7 +26,8 @@ def add_test_users():
         db.session.add_all(users)
         db.session.commit()
     print('OK')
-
+def sing():
+    print("helloworld")
 
 if __name__ == '__main__':
     add_test_users()
